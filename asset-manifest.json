@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fd260d6.chunk.css",
+    "main.js": "/static/js/main.c5bedd7b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.9fdf43a0.js",
+    "static/js/2.705a21af.chunk.js": "/static/js/2.705a21af.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.f8350ef72a012286c02ab430f5de871c.js": "/precache-manifest.f8350ef72a012286c02ab430f5de871c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.705a21af.chunk.js.LICENSE.txt": "/static/js/2.705a21af.chunk.js.LICENSE.txt",
+    "static/media/1a2b.png": "/static/media/1a2b.428698b3.png",
+    "static/media/App.css": "/static/media/JandaManateeSolid.4a07a75c.ttf",
+    "static/media/esmat-temiz.svg": "/static/media/esmat-temiz.6e1159c9.svg",
+    "static/media/google-play-badge-en.png": "/static/media/google-play-badge-en.db9b21a1.png",
+    "static/media/logo.png": "/static/media/logo.761b5d2e.png",
+    "static/media/smirking.png": "/static/media/smirking.1385b032.png",
+    "static/media/yalcin.jpg": "/static/media/yalcin.70e6dedd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fdf43a0.js",
+    "static/js/2.705a21af.chunk.js",
+    "static/css/main.3fd260d6.chunk.css",
+    "static/js/main.c5bedd7b.chunk.js"
+  ]
+}
